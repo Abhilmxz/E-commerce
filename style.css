@@ -392,7 +392,7 @@ body {
     flex-direction: column;
     justify-content: center; 
     align-items: center;  
-    background-image: url(/pics/banner/b7.jpg);
+    background-image: url(./pics/banner/b7.jpg);
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -402,10 +402,10 @@ body {
 }
 
 #banner3 .banner-box2{
-    background-image: url(/pics/banner/b4.jpg);
+    background-image: url(./pics/banner/b4.jpg);
 }
 #banner3 .banner-box3{
-    background-image: url(/pics/banner/b18.jpg);
+    background-image: url.(/pics/banner/b18.jpg);
 }
 
 #banner3 h2{
