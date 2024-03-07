@@ -135,7 +135,7 @@ body {
 
 /*Home page */
 #hero{
- background-image: url(/pics/hero4.png);
+ background-image: url(./pics/hero4.png);
  height: 90vh;
  width: 100%;
  background-size: cover;
@@ -156,7 +156,7 @@ body {
 }
 
 #hero button{
- background-image: url(/pics/button.png);
+ background-image: url(./pics/button.png);
  background-color: transparent;   
  color: #088178;
  border: 0;
@@ -306,7 +306,7 @@ body {
  justify-content: center; 
  align-items: center;  
  text-align: center;
- background-image: url(/pics/banner/b2.jpg);
+ background-image: url(./pics/banner/b2.jpg);
  width: 100%;
  height: 40vh;
  background-size: cover;
@@ -344,7 +344,7 @@ body {
     flex-direction: column;
     justify-content: center; 
     align-items: center;  
-    background-image: url(/pics/banner/b17.jpg);
+    background-image: url(./pics/banner/b17.jpg);
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -353,7 +353,7 @@ body {
 }
 
 #sm-banner .banner-box2{
-    background-image: url(/pics/banner/b10.jpg);
+    background-image: url(./pics/banner/b10.jpg);
 }
 
 #sm-banner h4{
@@ -425,7 +425,7 @@ body {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;  
-  background-image: url(/pics/banner/b14.png);
+  background-image: url(./pics/banner/b14.png);
   background-repeat: no-repeat;
   background-position: 20% 30%;
   background-color: #041e42;
