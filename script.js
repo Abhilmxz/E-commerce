@@ -13,3 +13,8 @@ if (close) {
      nav.classList.remove('active')
     }) 
  }
+
+//  var theDate=new Date()
+//   document.write(theDate.getFullYear()) 
+//   console.log('the date',theDate)
+//   document.getElementById('copyright').innerHTML=theDate.getFullYear()
