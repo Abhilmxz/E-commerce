@@ -18,3 +18,5 @@ if (close) {
 //   document.write(theDate.getFullYear()) 
 //   console.log('the date',theDate)
 //   document.getElementById('copyright').innerHTML=theDate.getFullYear()
+
+document.getElementById("year").innerHTML = new Date().getFullYear();
